@@ -1,0 +1,3 @@
+SQLite Python Module Version: (2, 6, 0)
+SQLite3 version: 3.31.1
+num_rows: 100
